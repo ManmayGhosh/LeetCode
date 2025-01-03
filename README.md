@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
