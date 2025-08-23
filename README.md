@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
