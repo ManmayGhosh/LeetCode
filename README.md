@@ -16,6 +16,7 @@
 | [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManmayGhosh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
@@ -55,4 +56,16 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManmayGhosh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
