@@ -19,6 +19,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManmayGhosh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
@@ -64,15 +65,18 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +85,13 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Binary Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
