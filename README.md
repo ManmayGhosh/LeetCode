@@ -39,10 +39,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
@@ -136,5 +139,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
