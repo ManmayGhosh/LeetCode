@@ -1,13 +1,17 @@
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
-        int x = 0;
-        for (const string &op : operations){
-            if (op.find('+') != string :: npos)
-                x++;
-            else
-                x--;
-        }
-        return x;
+    int X = 0;
+	for (string str : operations) {
+		if (str == "--X" || str == "X--")
+		{
+			X--;
+		}
+		else
+		{
+			X++;
+		}
+	}
+	return X;
     }
 };
