@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManmayGhosh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
@@ -153,6 +156,7 @@
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bitmask
 |  |
@@ -168,4 +172,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
