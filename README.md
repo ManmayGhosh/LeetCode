@@ -22,6 +22,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ManmayGhosh/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -132,6 +135,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
