@@ -6,6 +6,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ManmayGhosh/LeetCode/tree/master/0155-min-stack) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ManmayGhosh/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
@@ -146,6 +148,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManmayGhosh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,4 +220,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
