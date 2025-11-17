@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
