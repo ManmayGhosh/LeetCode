@@ -22,6 +22,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ManmayGhosh/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ManmayGhosh/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
