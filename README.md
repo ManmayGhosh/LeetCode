@@ -29,6 +29,7 @@
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManmayGhosh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ManmayGhosh/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ManmayGhosh/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ManmayGhosh/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -64,6 +65,7 @@
 | [0066-plus-one](https://github.com/ManmayGhosh/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ManmayGhosh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ManmayGhosh/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ManmayGhosh/LeetCode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -283,6 +285,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ManmayGhosh/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Tree
 |  |
