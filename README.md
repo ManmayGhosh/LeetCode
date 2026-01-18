@@ -35,6 +35,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ManmayGhosh/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/ManmayGhosh/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ManmayGhosh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ManmayGhosh/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -183,6 +184,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ManmayGhosh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1895-largest-magic-square](https://github.com/ManmayGhosh/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ManmayGhosh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ManmayGhosh/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -244,6 +246,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/ManmayGhosh/LeetCode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/ManmayGhosh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
