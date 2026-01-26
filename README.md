@@ -28,6 +28,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/ManmayGhosh/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManmayGhosh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/ManmayGhosh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ManmayGhosh/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ManmayGhosh/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
+| [1200-minimum-absolute-difference](https://github.com/ManmayGhosh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ManmayGhosh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ManmayGhosh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
