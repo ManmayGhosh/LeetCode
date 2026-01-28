@@ -70,6 +70,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManmayGhosh/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ManmayGhosh/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -118,6 +119,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManmayGhosh/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
@@ -209,6 +211,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ManmayGhosh/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/ManmayGhosh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManmayGhosh/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
 | ------- |
