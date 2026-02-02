@@ -56,6 +56,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ManmayGhosh/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ManmayGhosh/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ManmayGhosh/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -199,6 +200,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/ManmayGhosh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManmayGhosh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -269,6 +271,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ManmayGhosh/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManmayGhosh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -303,6 +306,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ManmayGhosh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ManmayGhosh/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
