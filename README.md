@@ -56,6 +56,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ManmayGhosh/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ManmayGhosh/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ManmayGhosh/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -164,6 +165,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/ManmayGhosh/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ManmayGhosh/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManmayGhosh/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManmayGhosh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -322,6 +324,7 @@
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ManmayGhosh/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ManmayGhosh/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Linked List
 |  |
