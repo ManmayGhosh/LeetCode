@@ -7,6 +7,7 @@
 | [0085-maximal-rectangle](https://github.com/ManmayGhosh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManmayGhosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ManmayGhosh/LeetCode/tree/master/0155-min-stack) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ManmayGhosh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
@@ -107,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ManmayGhosh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -125,6 +127,7 @@
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ManmayGhosh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
