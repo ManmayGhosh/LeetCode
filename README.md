@@ -80,6 +80,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ManmayGhosh/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ManmayGhosh/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManmayGhosh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -293,6 +294,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
@@ -304,6 +306,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ManmayGhosh/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ManmayGhosh/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -412,6 +416,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ManmayGhosh/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
