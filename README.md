@@ -128,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/ManmayGhosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ManmayGhosh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0799-champagne-tower](https://github.com/ManmayGhosh/LeetCode/tree/master/0799-champagne-tower) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ManmayGhosh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
