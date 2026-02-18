@@ -156,6 +156,7 @@
 | [0078-subsets](https://github.com/ManmayGhosh/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ManmayGhosh/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ManmayGhosh/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ManmayGhosh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManmayGhosh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
