@@ -111,6 +111,7 @@
 | [0067-add-binary](https://github.com/ManmayGhosh/LeetCode/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/ManmayGhosh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ManmayGhosh/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/ManmayGhosh/LeetCode/tree/master/0761-special-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ManmayGhosh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ManmayGhosh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ManmayGhosh/LeetCode/tree/master/0016-3sum-closest) |
+| [0761-special-binary-string](https://github.com/ManmayGhosh/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/ManmayGhosh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ManmayGhosh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ManmayGhosh/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ManmayGhosh/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/ManmayGhosh/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ManmayGhosh/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ManmayGhosh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
