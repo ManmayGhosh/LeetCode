@@ -12,5 +12,6 @@ function binaryGap(n: number): number {
         const distance = onePositions[i] - onePositions[i - 1];
         maxDistance = Math.max(maxDistance, distance);
     }
+    // keyword adjacent means consequtive 1 no 1 b/w them but zero can be there
     return maxDistance;
 };
