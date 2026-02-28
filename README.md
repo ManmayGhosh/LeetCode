@@ -96,6 +96,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ManmayGhosh/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ManmayGhosh/LeetCode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ManmayGhosh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ManmayGhosh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ManmayGhosh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManmayGhosh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -167,6 +168,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManmayGhosh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ManmayGhosh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ManmayGhosh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ManmayGhosh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ManmayGhosh/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManmayGhosh/LeetCode/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ManmayGhosh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ManmayGhosh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ManmayGhosh/LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ManmayGhosh/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
